@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/https://github.com/ibrahimhosen4045-max/Drama_Movie.git/',
+  base: '/Drama_Movie/',
   plugins: [react(), tailwindcss()],
 })
